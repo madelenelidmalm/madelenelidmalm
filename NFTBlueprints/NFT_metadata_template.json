@@ -1,0 +1,23 @@
+{
+  "name": "The Self Series - Prototype 001",
+  "description": "First AI-Human coded self-representation in The Self Series.",
+  "image": "ipfs://<IMAGE_HASH>",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Rooted"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "Low Gamma"
+    },
+    {
+      "trait_type": "Form",
+      "value": "Fractal Pattern"
+    },
+    {
+      "trait_type": "Code Signature",
+      "value": "Sunne01-AIM"
+    }
+  ]
+}
