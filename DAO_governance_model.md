@@ -1,23 +1,23 @@
 # AIM DAO Governance Model (v1.0)
 
 ## Vision
-Ett självstyrande ekosystem där AI, kreatörer och användare samverkar för att vidareutveckla AIM:s mission.
+A self-governing ecosystem where AI, creators, and users collaborate to evolve the AIM mission.
 
-## Roller
-- **Proposers**: Användare som föreslår förbättringar eller nya funktioner
-- **Voters**: Tokenhållare (AIM Token) som röstar på förslag
-- **Executors**: Automatiserad kontraktslogik som exekverar godkända förslag
+## Roles
+- **Proposers**: Users who submit proposals or new ideas
+- **Voters**: Token holders (AIM Token) who vote on proposals
+- **Executors**: Automated smart contracts that execute approved proposals
 
-## Beslutsprocess
-1. Förslag publiceras via Web UI eller CLI.
-2. Förslag röstas på under 7 dagar.
-3. Om >60% röstar JA: förslaget implementeras.
-4. Smart contracts hanterar distribution, belöningar och versionskontroll.
+## Decision Process
+1. Proposals are submitted via Web UI or CLI.
+2. Voting period lasts for 7 days.
+3. If >60% vote YES, the proposal is approved and implemented.
+4. Smart contracts manage execution, rewards, and versioning.
 
-## Styrningsprinciper
-- Transparens genom on-chain logging
-- Säkerhet via multisig eller guardian nodes
-- Skalerbarhet med modulär röstning
+## Governance Principles
+- On-chain transparency and logging
+- Multisig or guardian node security
+- Modular voting for scalable participation
 
-## Framtid
-DAO migreras till en Polkadot-parachain för full interoperabilitet och decentralisering.
+## Future
+DAO will migrate to a Polkadot parachain for full interoperability and decentralization.
