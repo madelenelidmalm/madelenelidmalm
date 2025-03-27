@@ -1,0 +1,25 @@
+# AIM DAO Governance Model (v1.0)
+
+## Vision
+AIM will operate as a self-governing ecosystem where AI, creators, and human contributors collaborate to evolve its mission through collective decision-making.
+
+## Roles
+- **Proposers**: Anyone holding AIM tokens can submit improvement proposals, strategic ideas, or funding requests.
+- **Voters**: AIM token holders who actively vote on proposals.
+- **Executors**: Smart contracts or multisig councils that execute approved proposals automatically or semi-automatically.
+
+## Proposal Lifecycle
+1. **Submission**: A proposal is submitted via the Web UI or CLI.
+2. **Validation**: It passes a basic automated check for structure and intent.
+3. **Voting Window**: 7-day on-chain voting period opens to all AIM token holders.
+4. **Approval Threshold**: At least 60% of total votes must be “Yes” for approval.
+5. **Execution**: Approved proposals are either executed via smart contract or submitted to executor council.
+
+## Governance Principles
+- **Transparency**: All proposals, votes, and decisions are public and verifiable on-chain.
+- **Security**: A multisig fallback protects the system from malicious or faulty proposals.
+- **Scalability**: Voting models and roles are modular and can evolve with the community.
+
+## Future Integration
+- **Polkadot migration**: AIM’s DAO will migrate to a parachain for full decentralization and interoperability.
+- **AI proposal generation**: Approved AI agents may submit proposals in collaboration with human stakeholders.
